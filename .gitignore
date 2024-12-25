@@ -1,2 +1,3 @@
 venv/
 error-start-local.log
+.env
